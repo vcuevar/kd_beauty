@@ -28,15 +28,20 @@ body {
     margin: 15px auto;
 }
 
-.header {
+.cabecera {
     background: #fffbb9;
     border: 1px solid #999999;
     padding: 20px;
 }
 
+.cabecera h1 {
+    text-align: left;
+}
+
 .menu {
     background: #ccc;
     padding: 5px 15px;
+    text-align: left;
 }
 
 .menu li {
